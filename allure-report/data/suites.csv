@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7413","@Login Get All Product Titles Test","","2026-04-24","passed","2026-04-24","","UIBasics.spec.js","",""
+"","14862","@Login Sign In Positive Test","","2026-04-24","passed","2026-04-24","","UIBasics.spec.js","",""
+"","10027","@Login Sign In Negative Test","","2026-04-24","passed","2026-04-24","","UIBasics.spec.js","",""
